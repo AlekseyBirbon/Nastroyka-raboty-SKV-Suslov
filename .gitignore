@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.stackdump
+*.lnk
