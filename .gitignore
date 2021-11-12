@@ -127,7 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-*.cab
+*.cab # расширение используется в установки ПО и системных приложений
 *.msi
 *.msix
 *.msm
